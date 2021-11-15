@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 5.0.2, 2021-11-08T17:39:06. -->
+<!-- Written by QtCreator 5.0.2, 2021-11-14T17:28:09. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -116,16 +116,16 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">/Users/egorurov/Documents/Yandex/PyQt/widget.py</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./Users/egorurov/Documents/Yandex/PyQt/widget.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/egorurov/Documents/Yandex/PyQt/widget.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">/Users/egorurov/Documents/PyQt/main.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./Users/egorurov/Documents/PyQt/main.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/egorurov/Documents/PyQt/main.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{17df9171-8066-48a3-a88d-30d4e6440661}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/Users/egorurov/Documents/Yandex/PyQt/widget.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/Users/egorurov/Documents/PyQt/main.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/Users/egorurov/Documents/Yandex/PyQt</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/Users/egorurov/Documents/PyQt</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
