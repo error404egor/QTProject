@@ -1,1 +1,0 @@
-([('main', '/Users/egorurov/Documents/PyQt/dist/main', 'EXECUTABLE')],)
